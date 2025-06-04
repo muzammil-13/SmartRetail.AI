@@ -1,1 +1,5 @@
 pandas
+
+# Add Google Cloud SDK, BigQuery, or Plotly later as you expand.
+
+
